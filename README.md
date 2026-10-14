@@ -18,11 +18,14 @@ AI-assisted Electronic Lab Notebook for industrial R&D. A multi-agent CrewAI wor
 Full-stack app that runs a restaurant's food cost, built for a real Tel Aviv restaurant (public version on synthetic data). Claude reads supplier invoices, validated before anything reaches the database; theoretical and real food cost every day; an ordering engine that says when and how much to buy; and a natural-language assistant whose every change is typed, confirmed and undoable.
 `Python` `FastAPI` `Postgres` `React` `TypeScript` `Claude API`
 
+### [School Substitution Platform](https://github.com/guillaumebensoussan/school-substitution-platform)
+Operations platform that ran a 100-teacher school's absences and substitutions for a full school year: a real-time substitution board, automated certificate reminders, AI verification of medical certificates with Gemini, and an admin dashboard for the scheduling coordinator.
+`JavaScript` `Firebase` `Google Apps Script` `Gemini API`
+
 ## Other work (private, client or production code)
 
 | Project | What it does | Stack |
 |---|---|---|
-| **School absence & substitution platform** | Runs teacher absences, substitutions and substitute pay for a 100-teacher school, in production. Absence certificates are checked for compliance with the Gemini API. | Apps Script, Gemini API, Firebase |
 | **AI-maintained second brain** | Knowledge base of 2,000+ notes maintained by Claude agents, with ingest, query and audit workflows and a knowledge graph. | Claude Code, Obsidian |
 
 ## Toolbox
