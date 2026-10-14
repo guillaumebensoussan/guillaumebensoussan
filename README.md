@@ -8,18 +8,21 @@ I spent eight years designing and characterising inorganic materials at the Weiz
 - 🤖 Artificial Intelligence Intensive Program, Hebrew University of Jerusalem (2026)
 - 📍 Tel Aviv, Israel - French, English, Hebrew
 
-## Featured project
+## Featured projects
 
 ### [ELN R&D Assistant](https://github.com/guillaumebensoussan/eln-rnd-assistant)
 AI-assisted Electronic Lab Notebook for industrial R&D. A multi-agent CrewAI workflow with validation gates, RAG over experiment history and patents, ML models for yield and quality control, and an IP-safe boundary between local and cloud data.
 `Python` `CrewAI` `RAG` `scikit-learn` `MCP`
+
+### [Food Cost & Ordering Manager](https://github.com/guillaumebensoussan/foodcost-manager)
+Full-stack app that runs a restaurant's food cost, built for a real Tel Aviv restaurant (public version on synthetic data). Claude reads supplier invoices, validated before anything reaches the database; theoretical and real food cost every day; an ordering engine that says when and how much to buy; and a natural-language assistant whose every change is typed, confirmed and undoable.
+`Python` `FastAPI` `Postgres` `React` `TypeScript` `Claude API`
 
 ## Other work (private, client or production code)
 
 | Project | What it does | Stack |
 |---|---|---|
 | **School absence & substitution platform** | Runs teacher absences, substitutions and substitute pay for a 100-teacher school, in production. Absence certificates are checked for compliance with the Gemini API. | Apps Script, Gemini API, Firebase |
-| **Restaurant food-cost manager** | Tracks theoretical and real food cost for a Tel Aviv brasserie (204 dishes, 105 recipes), ingests invoices and plans orders. | Python, FastAPI, Supabase, React |
 | **AI-maintained second brain** | Knowledge base of 2,000+ notes maintained by Claude agents, with ingest, query and audit workflows and a knowledge graph. | Claude Code, Obsidian |
 
 ## Toolbox
