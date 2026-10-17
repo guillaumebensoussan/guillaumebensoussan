@@ -6,7 +6,7 @@ I spent eight years designing and characterising inorganic materials at the Weiz
 
 - 🧪 PhD in Inorganic Chemistry, Weizmann Institute of Science (2023)
 - 🤖 Artificial Intelligence Intensive Program, Hebrew University of Jerusalem (2026)
-- 📍 Tel Aviv, Israel - French, English, Hebrew
+- 📍 Tel Aviv, Israel - English, Hebrew, French
 
 ## Featured projects
 
